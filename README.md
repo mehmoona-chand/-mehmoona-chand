@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 ### 👩‍💻 About Me
 
@@ -17,7 +17,6 @@ const mehmoona = {
   name: "Mehmoona Chand (Sylvia)",
   role: "Full Stack Developer",
   goal: "DevOps & Cloud Engineer",
-  university: "GCU Faisalabad 🎓",
   fellowship: "Dev Weekends 2026 🌱",
   currently: "Building EduConnect + GreenWallet",
   streak: "Daily GitHub commits 🔥",
@@ -111,7 +110,7 @@ const mehmoona = {
 ⬜ Deploy GreenWallet fullstack (Node.js + MongoDB)
 ⬜ Contribute to 3 open source projects
 ⬜ Maintain 100+ day GitHub streak
-```
+
 
 ---
 

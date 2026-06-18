@@ -15,9 +15,11 @@
 
 ---
 
-<img align="right" alt="Woman Coding" width="360" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
-
 ### 👩‍💻 About Me
+
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```javascript
 const mehmoona = {
@@ -27,12 +29,18 @@ const mehmoona = {
   university: "GCU Faisalabad 🎓",
   fellowship: "Dev Weekends 2026 🌱",
   building: ["EduConnect", "GreenWallet"],
+  targeting: "GSoC 2027 🎯",
   streak: "Daily GitHub commits 🔥",
   funFact: "I learn by building, not watching!"
 };
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" width="40%">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
